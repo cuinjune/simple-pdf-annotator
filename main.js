@@ -194,6 +194,11 @@ document.getElementById("upload").addEventListener("change", function (e) {
     uploadPDF(file);
 });
 
+document.getElementById("upload-button").addEventListener("click", function (e) {
+    const upload = document.getElementById("upload");
+    upload.click();
+});
+
 document.getElementById("download").addEventListener("click", function (e) {
     kendo.drawing.drawDOM("#canvas-wrapper", {
         forcePageBreak: ".page-break",
