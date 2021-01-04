@@ -1,4 +1,4 @@
-# simple-pdf-annotator
+# Simple PDF Annotator
 <img src="screenshot.png" alt="screenshot" width="1000"/>
 
 ## Description
