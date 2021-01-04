@@ -3,7 +3,7 @@
 
 ## Description
 
-This repo is the week7 assignment of the "Hand Held: Creative Tools for Phones" course at ITP.  
+This project was an assignment for the "Hand Held: Creative Tools for Phones" course at ITP.  
 The assignment was to build an application designed for drawing a specific thing on some sort of background texture / image.  
 I decided to create a simple PDF annotation application that allows the user to upload, edit, and download a PDF document.
 
